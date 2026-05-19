@@ -1,5 +1,16 @@
 # 💫 About Me:
-🚀 Full Stack & AI Developer<br><br>Passionate developer focused on building real-world web applications using the MERN stack and exploring AI-powered solutions. I enjoy creating modern, responsive, and user-friendly applications while continuously improving my problem-solving and backend development skills.<br><br>💫 About Me<br>🌱 Currently learning Advanced Backend Development<br>💻 Building projects using MERN Stack & AI integrations<br>🎯 Interested in Full Stack Development, AI Apps & Problem Solving<br>📚 Practicing LeetCode & Data Structures regularly<br>⚡ Love turning ideas into real products
+🚀 Full Stack, Android & AI Developer<br><br>
+
+Passionate developer focused on building real-world web and mobile applications using the MERN stack, Flutter, and AI-powered solutions. I enjoy creating modern, responsive, and user-friendly applications while continuously improving my backend, Android development, and problem-solving skills.<br><br>
+
+💫 About Me<br>
+
+🌱 Currently learning Advanced Backend & Mobile App Development<br>
+📱 Building Android apps using Flutter<br>
+💻 Developing full-stack projects using MERN Stack & AI integrations<br>
+🎯 Interested in Full Stack Development, Android Development, AI Apps & Problem Solving<br>
+📚 Practicing LeetCode & Data Structures regularly<br>
+⚡ Love turning ideas into real-world products
 
 
 ## 🌐 Socials:
@@ -11,9 +22,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=Anushkaaa29&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Anushkaaa29&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anushkaaa29&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anushkaaa29&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
